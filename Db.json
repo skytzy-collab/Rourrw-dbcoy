@@ -1,0 +1,22 @@
+{
+  "users": [
+    {
+      "phone": "6285178053562",
+      "username": "than2",
+      "password": "escannor",
+      "pin": "123",
+      "key": "thanganteng"
+    },
+    {
+      "phone": "6282389369394",
+      "username": "kei",
+      "password": "keijmk12",
+      "pin": "keikk",
+      "key": "thankei"
+    },
+    {
+      "phone": "6283130366036",
+      "key": "04011"
+    }
+  ]
+}
